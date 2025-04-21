@@ -77,3 +77,25 @@ Implemented four machine learning classification algorithms using **Scikit-learn
 
 ---
 
+
+## 🔧 Tools & Libraries Used
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- Folium
+- Dash
+- SQL (via Db2)
+- BeautifulSoup (Web scraping)
+
+---
+
+## 🏁 Final Notes
+This project serves as a comprehensive application of data science skills including data acquisition, cleaning, analysis, visualization, and predictive modeling—culminating in actionable insights for real-world space missions.
+
+---
+
+## 📜 License
+This project is part of the **IBM Data Science Professional Certificate** on Coursera. Feel free to explore, fork, or build upon it for learning or non-commercial use.
+
+---
+
+
+
